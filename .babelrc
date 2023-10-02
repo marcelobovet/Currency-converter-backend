@@ -1,0 +1,6 @@
+// Permite que la compilacion sea compatible con los sevidores
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
