@@ -17,7 +17,7 @@ async function converter(req, res) {
             origin_amount: uf,
             convertion_date: fecha,
             clp_amount: valor,
-            convertion_amount: Math.ceil(conversion)
+            convertion_amount: conversion.toFixed(0)
         })
 
         const savedTransaction = await transaction.save()
