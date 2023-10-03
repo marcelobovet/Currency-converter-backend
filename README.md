@@ -1,4 +1,9 @@
 # Currency-converter-backend
+# instalacion 
+- Boton <>code, local y descargar ZIP.
+- Descomprimir abrir con vscode.
+- abierto en vscode abrir terminal e instalar npm i
+- para ejecutar: npm run devbabel 
 
 ### Acceso
 
