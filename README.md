@@ -2,8 +2,8 @@
 # instalacion 
 - Boton <>code, local y descargar ZIP.
 - Descomprimir y abrir con vscode.
-- Abierto en vscode abrir terminal e instalar npm i
-- Para ejecutar: npm run devbabel 
+- Abierto en vscode abrir terminal e instalar con => npm i
+- Para ejecutar con => npm run devbabel 
 
 ### Acceso
 
